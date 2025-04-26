@@ -1,0 +1,22 @@
+{
+  "name": "e.pemilos",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "firebase": "^10.7.2",
+    "hugeicons-react": "^0.2.0",
+    "mysql2": "^3.11.3",
+    "next": "14.2.0",
+    "notistack": "^3.0.1",
+    "react": "^18",
+    "react-dom": "^18",
+    "sqlstring": "^2.3.3"
+  }
+}

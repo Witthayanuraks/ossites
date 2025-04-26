@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Google+Sans:100,300,400,500,700,900,100i,300i,400i,500i,700i,900i');
+@import url('https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..400,0..1,-50..200');
+
+:root {
+  --FontFamily-GoogleSans: 'Google Sans', sans-serif;
+}
+
+* {
+  font-family: 'Google Sans', sans-serif;
+  box-sizing: border-box;
+}
+body, html {
+  padding: 0;
+  margin: 0;
+}
+a, button {
+  cursor: pointer;
+}
+.response {
+  width: 100%;
+  max-width: 1600px;
+  margin: auto;
+}
+.notistack-SnackbarContainer {
+  z-index: 15000;
+}
